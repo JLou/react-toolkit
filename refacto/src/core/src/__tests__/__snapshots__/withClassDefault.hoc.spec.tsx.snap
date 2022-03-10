@@ -1,0 +1,33 @@
+// Vitest Snapshot v1
+
+exports[`HOC withClassDefault > Should have className when provided 1`] = `
+<DocumentFragment>
+  <span
+    class="my-class-name"
+  />
+</DocumentFragment>
+`;
+
+exports[`HOC withClassDefault > Should have defaultClassName when none provided 1`] = `
+<DocumentFragment>
+  <span
+    class="default-class-name"
+  />
+</DocumentFragment>
+`;
+
+exports[`HOC withClassDefault Should have className when provided 1`] = `
+<DocumentFragment>
+  <span
+    class="my-class-name"
+  />
+</DocumentFragment>
+`;
+
+exports[`HOC withClassDefault Should have defaultClassName when none provided 1`] = `
+<DocumentFragment>
+  <span
+    class="default-class-name"
+  />
+</DocumentFragment>
+`;

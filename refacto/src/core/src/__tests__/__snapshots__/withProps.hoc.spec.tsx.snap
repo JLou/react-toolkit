@@ -1,0 +1,33 @@
+// Vitest Snapshot v1
+
+exports[`HOC withProps > Should have mapped props 1`] = `
+<DocumentFragment>
+  <span>
+    bar
+  </span>
+</DocumentFragment>
+`;
+
+exports[`HOC withProps > Should override mapped props 1`] = `
+<DocumentFragment>
+  <span>
+    bar-bar
+  </span>
+</DocumentFragment>
+`;
+
+exports[`HOC withProps Should have mapped props 1`] = `
+<DocumentFragment>
+  <span>
+    bar
+  </span>
+</DocumentFragment>
+`;
+
+exports[`HOC withProps Should override mapped props 1`] = `
+<DocumentFragment>
+  <span>
+    bar-bar
+  </span>
+</DocumentFragment>
+`;

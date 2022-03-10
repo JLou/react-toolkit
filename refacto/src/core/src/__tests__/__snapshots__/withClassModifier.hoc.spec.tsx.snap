@@ -1,0 +1,33 @@
+// Vitest Snapshot v1
+
+exports[`HOC withClassDefault > Should have className with modifier 1`] = `
+<DocumentFragment>
+  <span
+    class="some-class-name some-class-name--modifier"
+  />
+</DocumentFragment>
+`;
+
+exports[`HOC withClassDefault > Should have className without modifier 1`] = `
+<DocumentFragment>
+  <span
+    class="some-class-name"
+  />
+</DocumentFragment>
+`;
+
+exports[`HOC withClassDefault Should have className with modifier 1`] = `
+<DocumentFragment>
+  <span
+    class="some-class-name some-class-name--modifier"
+  />
+</DocumentFragment>
+`;
+
+exports[`HOC withClassDefault Should have className without modifier 1`] = `
+<DocumentFragment>
+  <span
+    class="some-class-name"
+  />
+</DocumentFragment>
+`;
